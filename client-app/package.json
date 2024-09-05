@@ -1,0 +1,22 @@
+{
+  "name": "pwa-alerts-app",
+  "version": "1.0.0",
+  "description": "Simple PWA Application with Cache and Push Notifications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Eryx",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
